@@ -1,1 +1,1 @@
-hai
+print("hello world")
